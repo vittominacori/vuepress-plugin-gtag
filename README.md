@@ -1,6 +1,14 @@
 # Google Tag plugin for VuePress
 
-[![MIT licensed](https://img.shields.io/github/license/vittominacori/vuepress-plugin-gtag.svg)](https://github.com/vittominacori/vuepress-plugin-gtag/blob/master/LICENSE)
+## Install
+
+```bash
+"dependencies": {
+  ...
+  "vuepress-plugin-gtag": "vittominacori/vuepress-plugin-gtag",
+  ...
+},
+```
 
 ## Usage 
 

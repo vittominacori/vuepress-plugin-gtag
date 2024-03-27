@@ -1,5 +1,7 @@
 # Google Tag plugin for VuePress
 
+> NOTE: Private repo to use google tag with consent on Vuepress v1.x
+
 ## Install
 
 ```bash
@@ -10,9 +12,7 @@
 },
 ```
 
-## Usage 
-
-> Private repo tu use google tag with consent on Vuepress v1.x
+## Usage
 
 ```bash
 module.exports = {

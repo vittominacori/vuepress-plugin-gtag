@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-plugin-gtag",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Google Tag plugin for VuePress",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Vittorio Minacori",
+  "contributors": [
+    {
+      "name": "Vittorio Minacori",
+      "url": "https://github.com/vittominacori"
+    }
+  ],
+  "keywords": [
+    "google",
+    "tag",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/vittominacori/vuepress-plugin-gtag",
+  "bugs": {
+    "url": "https://github.com/vittominacori/vuepress-plugin-gtag/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vittominacori/vuepress-plugin-gtag.git"
+  }
+}

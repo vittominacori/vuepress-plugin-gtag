@@ -1,6 +1,10 @@
 # Google Tag plugin for VuePress
 
-> NOTE: Private repo to use google tag with consent on Vuepress v1.x
+> [!WARNING]
+> DO NOT USE IN PRODUCTION.
+> This is not a published package. 
+> This plugin uses localStorage to check previous stored consent and set the default values for Google Tag on Vuepress v1.x. 
+> If you want to use it in production please test within your environment.
 
 ## Install
 
